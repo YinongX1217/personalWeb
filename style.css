@@ -62,7 +62,7 @@ nav{
     transition: transfrom 1s ease-in;
 }
 .home{
-    background-image: url('../bg.jpg');
+    background-image: url('./bg.jpg');
     height: 800px;
     width:100%;
     background-position: center;
