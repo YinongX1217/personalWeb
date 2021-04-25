@@ -1,1 +1,1 @@
-### For the personal webstie, please check at https://yinongx1217.github.io/personalWeb/ 
+### For my personal website, please check out the following link: https://yinongx1217.github.io/personalWeb/ 
