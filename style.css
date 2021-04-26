@@ -218,13 +218,13 @@ nav{
     width:85%;
     background-color:darkgreen;
 }
+.Bash{
+    width:50%;
+    background-color: darkseagreen;
+}
 .HTML{
     width: 65%;
-    background-color:darkseagreen;
-}
-.Bash{
-    width:70%;
-    background-color: darkcyan;
+    background-color:darkcyan;
 }
 .R{
     width:60%;
